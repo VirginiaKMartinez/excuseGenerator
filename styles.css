@@ -1,0 +1,42 @@
+body{
+    background-color: #fcfcfc;
+}
+
+.postit{
+    margin: auto;
+    margin-top:5%;
+    background-color: rgb(250, 250, 97);
+    width: 380px;
+    height: 320px;
+    padding: 24px;
+     -webkit-box-shadow: 0 15px 10px #777;
+    -moz-box-shadow: 0 15px 10px #777;
+    box-shadow: 0 15px 10px #777;
+    -webkit-transform: rotate(-3deg);
+    -moz-transform: rotate(-3deg);
+    -o-transform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+    transform: rotate(-3deg);
+}
+
+h1, p{
+    font-family: Permanent Marker;
+    text-align: center;
+    color: #333333;
+}
+
+p{
+font-size: 30px;
+}
+
+h2{
+    font-family: Source Code Pro;
+    text-align: center;
+    margin-top:10%;
+    color: #333333;
+}
+h3{
+  font-family: Source Code Pro;
+  text-align: center;  
+  color: #333333;
+}
